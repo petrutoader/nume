@@ -1,0 +1,16 @@
+{
+  "name": "nume",
+  "version": "1.0.0",
+  "description": "Romanian name generator",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepublish": "coffee -o lib/ -c src/"
+  },
+  "author": "Petru-Sebastian Toader <mail@petrutoader.com> (http://petrutoader.com/)",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/petrutoader/nume.git"
+  },
+  "license": "MIT"
+}
