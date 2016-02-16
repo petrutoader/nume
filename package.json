@@ -1,6 +1,6 @@
 {
   "name": "nume",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Romanian name generator",
   "main": "lib/index.js",
   "scripts": {
